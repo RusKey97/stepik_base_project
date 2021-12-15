@@ -1,2 +1,4 @@
 INSERT INTO genres (genre) VALUES ('Сказка');
 INSERT INTO books (name, year, author) VALUES ('Мёртвые души', 1842, 'Гоголь');
+
+INSERT INTO books (name, year, author) VALUES ('Собака на сене', 1618 , 'Лопе де Вега'), ('Тихий Дон', 1928, 'Шолохов');
