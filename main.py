@@ -1,3 +1,3 @@
 print('Hello, git!')
-print('Hello, git! x2')
+print('Hello, git! reborn')
 
