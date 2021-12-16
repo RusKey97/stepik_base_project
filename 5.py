@@ -1,4 +1,3 @@
-
 import sqlite3
 
 conn = sqlite3.connect('My_cats.db')
